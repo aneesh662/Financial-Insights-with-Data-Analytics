@@ -1,4 +1,4 @@
-# Unlocking Financial Insights with Data Analytics 📊
+# Financial Insights with Data Analytics 📊
 
 In today’s data-driven world, financial analysis isn’t just about numbers—it’s about visual storytelling that helps businesses make smarter decisions.
 
