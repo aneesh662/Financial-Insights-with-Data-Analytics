@@ -1,4 +1,3 @@
-# Financial-Insights-with-Data-Analytics
 # Unlocking Financial Insights with Data Analytics 📊
 
 In today’s data-driven world, financial analysis isn’t just about numbers—it’s about visual storytelling that helps businesses make smarter decisions.
@@ -17,6 +16,8 @@ Understanding revenue fluctuations.
 ### ✅ Financial Correlation Heatmap 🔥
 Revealing relationships between key financial metrics.
 
+![Financial Dashboard](path_to_your_image.png)
+
 ---
 
 ### Why is this important?
@@ -28,6 +29,12 @@ Revealing relationships between key financial metrics.
 ---
 
 🚀 **Key Takeaway**: The power of data analytics in finance is game-changing. The right visualizations tell a story, highlight trends, and drive impactful business decisions.
+
+---
+
+### 🚀 Project Link:
+
+[View the project here](https://your-project-link.com)
 
 ---
 
