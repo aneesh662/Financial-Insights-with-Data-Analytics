@@ -34,9 +34,9 @@ Revealing relationships between key financial metrics.
 
 ### 🚀 Project Link:
 
-[View the project here](https://your-project-link.com)
+<!--[View the project here](https://your-project-link.com)-->
 
 ---
 
-# Hashtags:
-#FinancialAnalytics #DataScience #Python #Visualization #Finance #DataDriven #BusinessInsights #Codebasics
+<!--# Hashtags:
+#FinancialAnalytics #DataScience #Python #Visualization #Finance #DataDriven #BusinessInsights #Codebasics -->
