@@ -16,7 +16,7 @@ Understanding revenue fluctuations.
 ### ✅ Financial Correlation Heatmap 🔥
 Revealing relationships between key financial metrics.
 
-![Financial Dashboard](path_to_your_image.png)
+![Financial Dashboard](https://github.com/aneesh662/Financial-Insights-with-Data-Analytics/blob/ec79b55e1f81372637364cb0226385e0082f167d/financial_dashboard.png)
 
 ---
 
